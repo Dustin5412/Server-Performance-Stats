@@ -7,3 +7,19 @@ A portable, dependency-free Bash script designed to analyze and display critical
 * **Storage:** Analyzes disk utilization across the filesystem.
 * **Process Tracking:** Identifies the top 5 resource-consuming processes ranked by CPU and memory consumption.
 * **System Metadata (Optional):** Displays uptime, OS version, load averages, and security insights like failed login attempts.
+
+## Getting Started
+1. **Clone the repository**
+    ```
+    git clone https://github.com/Dustin5412/Server-Performance-Stats.git
+    
+    ```
+    
+2. **Make the script executable**
+    ```
+    chmod +x server-stats.sh
+    ```
+3. **Execute the script**  
+    ```
+    ./server-stats.sh
+    ```
